@@ -1,13 +1,16 @@
 <h1 align="center">
-  MPFT: Multi-Policy Pareto Front Tracking
+  Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL
 </h1>
 
 <p align="center">
-  <b>Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL</b>
+  <b> Zeyu Zhao&ensp;&ensp;Yueling Che&ensp;&ensp;Kaichen Liu&ensp;&ensp;Jian Li&ensp;&ensp;Junmei Yao </b>
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Conference-ICML%202026-purple">
+  <a href="https://openreview.net/group?id=ICML.cc/2026/Conference">
+  <img src="https://img.shields.io/badge/Conference-ICML%202026-purple" alt="ICML 2026 Badge">
+</a>
   <img src="https://img.shields.io/badge/Python-3.11-blue">
   <img src="https://img.shields.io/badge/PyTorch-2.x-red">
   <img src="https://img.shields.io/badge/Framework-MORL-green">
