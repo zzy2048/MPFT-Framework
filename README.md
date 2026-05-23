@@ -1,8 +1,9 @@
 <h1 align="center">
-  Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL
+ MPFT Framework
 </h1>
 
 <p align="center">
+  <b>  Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL </b> <br>
   <b> Zeyu Zhao&ensp;&ensp;Yueling Che&ensp;&ensp;Kaichen Liu&ensp;&ensp;Jian Li&ensp;&ensp;Junmei Yao </b>
 </p>
 
